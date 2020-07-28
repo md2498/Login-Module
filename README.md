@@ -3,8 +3,10 @@
 username=root
 ###
 password=root
-
-###login managed by HttpSession PrerapredStatementlogout by managing session.
+###
+JAVA
+###
+login managed by HttpSession PrerapredStatementlogout by managing session.
 ###
 SERVLET
 ###
